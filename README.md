@@ -2,7 +2,7 @@
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&showBorder=false&lineCount=1&theme=tokyonight&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;Next.js,Next.js,FFFFFF;node.js,node.js,339933;react,react,61DAFB;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&showBorder=false&lineCount=1&theme=tokyonight&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;Next.js,Next.js,FFFFFF;node.js,node.js,339933;react,react,61DAFB;)
 
 ## SignUp Screen
-<img src="/public/signup.png" width="auto" height="60%"/>
+<img src="/public/signup.png" width="auto" height="auto"/>
 
 ## Login Screen
 <img src="/public/login.gif" width="auto" height="auto"/>
@@ -10,6 +10,8 @@
 ## Manage Tasks
 <img src="/public/manageTasks.gif" width="auto" height="auto"/>
 
+## View Details
+<img src="/public/viewDetails.gif" width="auto" height="auto"/>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

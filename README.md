@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png)
 
 ## Login Screen
-![Alt Text](https://media.giphy.com/media/7Hh8WNQoCBrTst3JLX/giphy.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ3Njg2ZjVlMzJlY2I5YzRhZGVhZGUwNzZhMDllODAzYjM5OGFjMyZjdD1n/GVigYPaoFjheZcOzNo/giphy.gif)
 
 
 

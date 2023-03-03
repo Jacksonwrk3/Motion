@@ -2,7 +2,7 @@
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?align=center&showBorder=false&lineCount=1&theme=tokyonight&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;Next.js,Next.js,FFFFFF;node.js,node.js,339933;react,react,61DAFB;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&showBorder=false&lineCount=1&theme=tokyonight&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;Next.js,Next.js,FFFFFF;node.js,node.js,339933;react,react,61DAFB;)
 
 ## SignUp Screen
-<img src="https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png" width="100%" height="20%"/>
+<img src="https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png" width="100%" height="500"/>
 
 ## Login Screen
 <img src="/public/login.gif" width="auto" height="auto"/>

@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png)
 
 ## Login Screen
-<img src="/images/output/video1.gif" width="auto" height="auto"/>
+<img src="/images/output/video1.gif" width="500" height="500"/>
 
 
 

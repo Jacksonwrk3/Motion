@@ -1,5 +1,6 @@
 ## Tech Stack
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;node.js,node.js,339933;next.js,next.js,FFFFFF;React,React,61DAFB;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=2&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;node.js,node.js,339933;next.js,next.js,FFFFFF;React,React,61DAFB;)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=tokyonight&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;Next.js,Next.js,FFFFFF;node.js,node.js,339933;react,react,61DAFB;)](https://github-readme-tech-stack.vercel.app/api/cards?showBorder=false&lineCount=1&theme=tokyonight&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;Next.js,Next.js,FFFFFF;node.js,node.js,339933;react,react,61DAFB;)
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

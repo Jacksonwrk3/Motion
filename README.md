@@ -5,7 +5,8 @@
 ![image](https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png)
 
 ## Login Screen
-https://giphy.com/gifs/7Hh8WNQoCBrTst3JLX
+[[![image](https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png)
+](https://giphy.com/gifs/7Hh8WNQoCBrTst3JLX)](https://giphy.com/gifs/7Hh8WNQoCBrTst3JLX)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

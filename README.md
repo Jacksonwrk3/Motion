@@ -3,7 +3,6 @@
 
 ## SignUp Screen
 <!-- ![image](https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png) -->
-<img src="(https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png)" width="auto" height="auto"/>
 
 ## Login Screen
 <img src="/public/login.gif" width="auto" height="auto"/>

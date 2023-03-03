@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/111912576/222813209-b665a80f-81a0-4917-b544-5f969cb50f72.png)
 
 ## Login Screen
-![Imgur Image](http://i.imgur.com/zTONrOD.jpg](https://imgur.com/zRR3NWF)
+![Alt Text](/public/login.gif)
 
 
 

@@ -1,5 +1,8 @@
 ## Tech Stack
-(https://github-readme-tech-stack.vercel.app/api/cards?align=center&showBorder=false&lineCount=1&theme=tokyonight&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;Next.js,Next.js,FFFFFF;node.js,node.js,339933;react,react,61DAFB;)](https://github-readme-tech-stack.vercel.app/api/cards?align=center&showBorder=false&lineCount=1&theme=tokyonight&hideBg=true&hideTitle=true&line1=JavaScript,JavaScript,F7DF1E;Next.js,Next.js,FFFFFF;node.js,node.js,339933;react,react,61DAFB;)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node](https://img.shields.io/badge/-Node-9ACD32?logo=node.js&logoColor=white&style=for-the-badge)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## SignUp Screen
 <img src="/public/signup.png" width="auto" height="auto"/>
